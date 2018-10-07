@@ -1,7 +1,7 @@
 # NodejsPractice
-*mainServer.js<br>
+* mainServer.js
 ------
-GET，POST，文件请求
-*try.js<br>
+<br>GET，POST，文件请求
+* try.js
 ------
-fs模块与http模块的结合
+<br>fs模块与http模块的结合
