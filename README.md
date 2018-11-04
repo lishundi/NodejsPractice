@@ -13,4 +13,6 @@ fs模块与http模块的结合
 Node代码
 ## database部分<br>
 
-https://github.com/lishundi/NodejsPractice/master/picture/1.png 
+![](https://github.com/lishundi/NodejsPractice/picture/1.png) 
+
+      
