@@ -12,7 +12,6 @@ fs模块与http模块的结合
 ## Login.js<br>
 Node代码
 ## database部分<br>
-
-![](https://github.com/lishundi/NodejsPractice/picture/1.png) 
+见picture文件夹
 
       
